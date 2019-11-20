@@ -1,0 +1,56 @@
+{
+  "project_info": {
+    "project_number": "69443171653",
+    "firebase_url": "https://fireapp-3ac81.firebaseio.com",
+    "project_id": "fireapp-3ac81",
+    "storage_bucket": "fireapp-3ac81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69443171653:android:8edf7a9295083e9d",
+        "android_client_info": {
+          "package_name": "com.example.thealien.fireapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69443171653-tnsd4eu3ms04b7l1rn21ctev7j50kv78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thealien.fireapp",
+            "certificate_hash": "9095a13d0f4715dadeae070d132d2f52b51c575f"
+          }
+        },
+        {
+          "client_id": "69443171653-0ult4plauuqetilj7nnrc3qq5hmm9mpl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.thealien.fireapp",
+            "certificate_hash": "ce2bd7eaf7a33df6d2499c80728ddc5e117f9034"
+          }
+        },
+        {
+          "client_id": "69443171653-a0plfbl07tff9nqm7m5pirpf99f77la2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDI1KQ6fzSH64kya35_iZdR-wbsnfHbLHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69443171653-a0plfbl07tff9nqm7m5pirpf99f77la2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
